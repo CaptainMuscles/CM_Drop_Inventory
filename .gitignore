@@ -9,8 +9,8 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
-Source/CM_PocketDimension/.idea/
-Source/CM_PocketDimension/.vs/
-Source/CM_PocketDimension/bin/
-Source/CM_PocketDimension/obj/
-Source/CM_PocketDimension/packages/
+Source/CM_Drop_Inventory/.idea/
+Source/CM_Drop_Inventory/.vs/
+Source/CM_Drop_Inventory/bin/
+Source/CM_Drop_Inventory/obj/
+Source/CM_Drop_Inventory/packages/
